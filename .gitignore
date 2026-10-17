@@ -1,0 +1,15 @@
+# Secrets : ne jamais publier
+.env
+*.key
+*.pem
+
+# Dépendances
+node_modules/
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers système
+Thumbs.db
+.DS_Store
