@@ -1,2 +1,2 @@
 # Contact
-Mon email : eliecharo@icloud.com (a verifier)
+Mon email : exemple@icloud.com (un vérificateur)
